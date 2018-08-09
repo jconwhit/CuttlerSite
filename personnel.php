@@ -30,7 +30,7 @@
 <li>Alexander Spradlin</li>
 </br>
 
-<h3>Undergraduate Student Alumni</h3>
+<h3>Undergraduate Student</h3>
 <li>Aria Petrucci</li>
 <li>Amanda Stueber</li>
 <li>Nikolas Steckley</li>
