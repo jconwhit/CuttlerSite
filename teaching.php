@@ -19,12 +19,12 @@
     <article class="post">
 <div>
   <h2>Classes Taught</h2>
-<strong>Psychology 511:</strong> ANOVA<br />
 <strong>Psychology 311:</strong> Elementary Statistics in Psychology<br />
 <strong>Psychology 312:</strong> Experimental Methods in Psychology<br />
 <strong>Psychology 333:</strong> Abnormal Psychology<br />
 <strong>Psychology 361:</strong> Fundamentals of Developmental Psychology<br />
 <strong>Psychology 490:</strong> Cognition and Memory<br />
+<strong>Psychology 511:</strong> ANOVA<br />
 <strong>Psychology 512:</strong> Correlation and Regression<br />
 </div>
     </article>
