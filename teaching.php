@@ -19,6 +19,7 @@
     <article class="post">
 <div>
   <h2>Classes Taught</h2>
+<strong>Psychology 511:</strong> ANOVA<br />
 <strong>Psychology 311:</strong> Elementary Statistics in Psychology<br />
 <strong>Psychology 312:</strong> Experimental Methods in Psychology<br />
 <strong>Psychology 333:</strong> Abnormal Psychology<br />

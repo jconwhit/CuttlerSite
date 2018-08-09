@@ -4,7 +4,7 @@
 <link rel="stylesheet" href="assets/css/main.css" />
 
 <head>
-    <title>Participate</title>
+    <title>Participate in our Research</title>
     <script src="//code.jquery.com/jquery-1.10.2.js"></script>
     <meta name="viewport" content="width=device-width, initial-scale=1" />
 </head>
@@ -17,7 +17,7 @@
 <!-- Main -->
 <div id="main">
     <article class="post">
-Participation text stub
+Check back later!
     </article>
 </div>
 <?php

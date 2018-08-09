@@ -33,6 +33,17 @@ require("header.html");
     <li>Spradlin, A., Mauzay, D., &amp; Cuttler, C. (2017). Symptoms of obsessive-compulsive disorder predict cannabis misuse. Addictive Behaviors, 72, 159-164. doi: 10.1016/j.addbeh.2017.03.023</li>
     <li>Cuttler, C., Mischley, L., Sexton, M. (2016). Sex differences in cannabis use and effects: A cross-sectional survey of cannabis users. Cannabis and Cannabinoid Research, 1, 166-175. doi: 10.1089/can.2016.0010</li>
 </div>
+<div>
+  <h2>About</h2>
+  <p>Research in my Health and Cognition Laboratory at WSU focuses on elucidating the potentially
+beneficial and detrimental effects of chronic cannabis use and acute cannabis intoxication. Our
+current and recent work focuses on examining links between cannabis use and mental health
+(e.g., depression, anxiety, OCD), physical health (e.g., pain, sleep), stress, and cognition (e.g.,
+memory, decision-making, executive functioning, creativity, attention). Further, we are
+interested in examining effects of cannabis with different concentrations of THC and CBD as
+well as effects of cannabis concentrates to better understand their influence on mental health,
+physical health, and cognition.</p>
+</div>
     </article>
 </div>
 <?php

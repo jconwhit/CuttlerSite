@@ -18,33 +18,42 @@
 <div id="main">
     <article class="post">
 <div>
-  <h2>Lab Personnel</h2>
+<h2>Lab Personnel</h2>
+
 <h3>Graduate Students</h3>
-<li>Alexander Spradlin</li>
 <li>Dakota Mauzay</li>
 <li>Emily LaFrance</li>
+<li>Nick Glodosky</li>
 </br>
-<h3>Undergraduate Students</h3>
-<li>Adam Dickenson</li>
-<li>Charlotte Evans</li>
-<li>Madeline Jerome</li>
-<li>Samantha Johnson</li>
-<li>Genevieve Mangin</li>
-<li>Samantha McLoad</li>
-<li>Aria Petrucci</li>
-<li>Ryelee Plager</li>
-<li>Kimberly Reed</li>
-<li>Amy Rodriguez</li>
-<li>Gretchen Stolte</li>
-<li>Gabrielle Struve</li>
-<li>Emma Wilsie</li>
-<li>Elliot Wills</li>
-</div>
 
+<h3>Graduate Student Alumni</h3>
+<li>Alexander Spradlin</li>
 </br>
-<p>
-  Dr. Cuttler will be accepting Experimental graduate students for Fall 2018 admissions.
-</p>
+
+<h3>Undergraduate Student Alumni</h3>
+<li>Aria Petrucci</li>
+<li>Amanda Stueber</li>
+<li>Nikolas Steckley</li>
+</br>
+
+<h3>Undergraduate Student Alumni</h3>
+<li>Marcella Teixiera-Marques</li>
+<li>Mackenzie Allison, Jillian Millar</li>
+<li>Erin Brooks</li>
+<li>Samantha Dillon</li>
+<li>Kimberly Reed</li>
+<li>Madeline Jerome</li>
+<li>Adam Dickensen</li>
+<li>Taylor Barnum</li>
+<li>Gabrielle Struve</li>
+<li>Mia Ryckman</li>
+<li>Ashlee Creek</li>
+<li>Mariah Johnson</li>
+<li>Samantha Johnson</li>
+<li>Victoria Money</li>
+<li>Ryelee Plager</li>
+<li>Tristan Underwood</li>
+</div>
 
 <div class="personnel1-pic">
     <img src="doc/personnel1.jpg" style="width:50%;">
