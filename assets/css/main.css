@@ -3468,9 +3468,6 @@
 
 
 
-
-
-
 .lst-kix_list_4-1>li {
 		counter-increment: lst-ctn-kix_list_4-1
 }
@@ -4633,18 +4630,6 @@ table th {
 		padding: 0
 }
 
-.c1 {
-		-webkit-text-decoration-skip: none;
-		color: #1155cc;
-		font-weight: 400;
-		text-decoration: underline;
-		vertical-align: baseline;
-		text-decoration-skip-ink: none;
-		font-size: 11pt;
-		font-family: "Times New Roman";
-		font-style: normal
-}
-
 .c28 {
 		margin-left: 18pt;
 		padding-top: 0pt;
@@ -4656,7 +4641,7 @@ table th {
 		text-align: left
 }
 
-.c7 {
+.c4 {
 		margin-left: 18pt;
 		padding-top: 0pt;
 		padding-left: 0pt;
@@ -4667,37 +4652,7 @@ table th {
 		text-align: left
 }
 
-.c4 {
-		color: #000000;
-		font-weight: 400;
-		text-decoration: none;
-		vertical-align: baseline;
-		font-size: 11pt;
-		font-family: "Times New Roman";
-		font-style: italic
-}
-
-.c26 {
-		color: #646464;
-		font-weight: 400;
-		text-decoration: none;
-		vertical-align: baseline;
-		font-size: 14pt;
-		font-family: "Times New Roman";
-		font-style: normal
-}
-
-.c22 {
-		color: #000000;
-		font-weight: 700;
-		text-decoration: none;
-		vertical-align: baseline;
-		font-size: 24pt;
-		font-family: "Arial";
-		font-style: normal
-}
-
-.c9 {
+.c3 {
 		padding-top: 0pt;
 		padding-bottom: 6pt;
 		line-height: 1.0;
@@ -4707,25 +4662,46 @@ table th {
 		height: 10pt
 }
 
-.c8 {
-		color: #000000;
-		font-weight: 400;
-		text-decoration: none;
-		vertical-align: baseline;
-		font-family: "Times New Roman";
-		font-style: normal
-}
-
-.c3 {
+.c7 {
 		padding-top: 0pt;
 		padding-bottom: 0pt;
 		line-height: 1.0;
 		orphans: 2;
 		widows: 2;
-		text-align: justify
+		text-align: left;
+		height: 10pt
 }
 
 .c11 {
+		color: #646464;
+		font-weight: 400;
+		text-decoration: none;
+		vertical-align: baseline;
+		font-size: 14pt;
+		font-family: "Arial";
+		font-style: normal
+}
+
+.c1 {
+		padding-top: 0pt;
+		padding-bottom: 0pt;
+		line-height: 1.0;
+		orphans: 2;
+		widows: 2;
+		text-align: justify;
+		height: 10pt
+}
+
+.c8 {
+		padding-top: 0pt;
+		padding-bottom: 0pt;
+		line-height: 1.0;
+		orphans: 2;
+		widows: 2;
+		text-align: left
+}
+
+.c24 {
 		padding-top: 0pt;
 		padding-bottom: 6pt;
 		line-height: 1.0;
@@ -4734,22 +4710,13 @@ table th {
 		text-align: left
 }
 
-.c0 {
+.c6 {
 		padding-top: 0pt;
 		padding-bottom: 0pt;
 		line-height: 1.0;
 		orphans: 2;
 		widows: 2;
-		text-align: left
-}
-
-.c25 {
-		color: #141413;
-		font-weight: 400;
-		text-decoration: none;
-		vertical-align: baseline;
-		font-family: "Times New Roman";
-		font-style: normal
+		text-align: justify
 }
 
 .c31 {
@@ -4761,7 +4728,7 @@ table th {
 		text-align: left
 }
 
-.c24 {
+.c16 {
 		padding-top: 24pt;
 		padding-bottom: 6pt;
 		line-height: 1.15;
@@ -4769,15 +4736,7 @@ table th {
 		text-align: left
 }
 
-.c33 {
-		color: #000000;
-		text-decoration: none;
-		vertical-align: baseline;
-		font-family: "Arial";
-		font-style: normal
-}
-
-.c21 {
+.c32 {
 		padding-top: 0pt;
 		padding-bottom: 17pt;
 		line-height: 1.15;
@@ -4785,100 +4744,130 @@ table th {
 		height: 18pt
 }
 
-.c17 {
+.c14 {
+		-webkit-text-decoration-skip: none;
+		color: #1155cc;
+		text-decoration: underline;
+		text-decoration-skip-ink: none
+}
+
+.c9 {
 		color: #000000;
 		text-decoration: none;
 		vertical-align: baseline;
-		font-family: "Times New Roman";
 		font-style: normal
 }
 
-.c34 {
-		color: #646464;
-		text-decoration: none;
-		vertical-align: baseline;
+.c0 {
+		font-size: 11pt;
 		font-family: "Arial";
-		font-style: normal
+		font-style: italic;
+		font-weight: 400
 }
 
-.c16 {
-		text-decoration-skip-ink: none;
-		-webkit-text-decoration-skip: none;
-		color: #1155cc;
-		text-decoration: underline
+.c21 {
+		font-weight: 400;
+		font-size: 10pt;
+		font-family: "Arial"
+}
+
+.c25 {
+		font-weight: 700;
+		font-size: 24pt;
+		font-family: "Arial"
+}
+
+.c13 {
+		color: #000000;
+		text-decoration: none;
+		vertical-align: baseline
 }
 
 .c20 {
+		font-size: 14pt;
+		font-family: "Arial";
+		font-weight: 400
+}
+
+.c5 {
+		font-size: 11pt;
+		font-family: "Arial";
+		font-weight: 400
+}
+
+.c18 {
 		background-color: #ffffff;
 		max-width: 468pt;
 		padding: 72pt 72pt 72pt 72pt
 }
 
-.c13 {
-		background-color: #ffffff;
-		vertical-align: super
-}
-
-.c5 {
-		font-size: 11pt;
-		font-style: italic
-}
-
 .c2 {
 		font-size: 11pt;
+		font-family: "Arial";
 		font-weight: 700
 }
 
-.c14 {
-		color: inherit;
-		text-decoration: inherit
+.c19 {
+		font-weight: 400;
+		font-size: 8pt;
+		font-family: "Arial"
 }
 
-.c10 {
+.c23 {
 		font-size: 14pt;
+		font-family: "Arial";
 		font-weight: 700
 }
 
-.c30 {
-		margin-left: 36pt;
-		padding-left: 0pt
+.c15 {
+		vertical-align: baseline;
+		font-style: normal
 }
 
-.c18 {
+.c22 {
+		font-weight: 400;
+		font-family: "Arial"
+}
+
+.c12 {
 		padding: 0;
 		margin: 0
 }
 
+.c33 {
+		margin-left: 36pt;
+		padding-left: 0pt
+}
+
 .c27 {
-		height: 24pt
+		color: #141413;
+		text-decoration: none
 }
 
-.c6 {
-		font-size: 11pt
+.c34 {
+		color: #646464;
+		text-decoration: none
 }
 
-.c32 {
-		background-color: #ffffff
+.c10 {
+		color: inherit;
+		text-decoration: inherit
 }
 
-.c23 {
-		vertical-align: super
-}
-
-.c19 {
-		height: 10pt
-}
-
-.c15 {
-		font-size: 10pt
-}
-
-.c12 {
+.c17 {
 		color: #222222
 }
 
 .c29 {
-		font-size: 8pt
+		height: 24pt
+}
+
+.c26 {
+		vertical-align: super
+}
+
+.c30 {
+		background-color: #ffffff
 }
 
 .title {
@@ -4887,7 +4876,7 @@ table th {
 		font-weight: 700;
 		font-size: 36pt;
 		padding-bottom: 6pt;
-		font-family: "Times New Roman";
+		font-family: "Arial";
 		line-height: 1.0;
 		page-break-after: avoid;
 		orphans: 2;
@@ -4912,14 +4901,14 @@ table th {
 li {
 		color: #000000;
 		font-size: 10pt;
-		font-family: "Times New Roman"
+		font-family: "Arial"
 }
 
 p {
 		margin: 0;
 		color: #000000;
 		font-size: 10pt;
-		font-family: "Times New Roman"
+		font-family: "Arial"
 }
 
 h1 {
@@ -4928,7 +4917,7 @@ h1 {
 		font-weight: 700;
 		font-size: 24pt;
 		padding-bottom: 6pt;
-		font-family: "Times New Roman";
+		font-family: "Arial";
 		line-height: 1.0;
 		page-break-after: avoid;
 		orphans: 2;
@@ -4942,7 +4931,7 @@ h2 {
 		font-weight: 700;
 		font-size: 18pt;
 		padding-bottom: 4pt;
-		font-family: "Times New Roman";
+		font-family: "Arial";
 		line-height: 1.0;
 		page-break-after: avoid;
 		orphans: 2;
@@ -4956,7 +4945,7 @@ h3 {
 		font-weight: 700;
 		font-size: 14pt;
 		padding-bottom: 4pt;
-		font-family: "Times New Roman";
+		font-family: "Arial";
 		line-height: 1.0;
 		page-break-after: avoid;
 		orphans: 2;
@@ -4970,7 +4959,7 @@ h4 {
 		font-weight: 700;
 		font-size: 12pt;
 		padding-bottom: 2pt;
-		font-family: "Times New Roman";
+		font-family: "Arial";
 		line-height: 1.0;
 		page-break-after: avoid;
 		orphans: 2;
@@ -4984,7 +4973,7 @@ h5 {
 		font-weight: 700;
 		font-size: 11pt;
 		padding-bottom: 2pt;
-		font-family: "Times New Roman";
+		font-family: "Arial";
 		line-height: 1.0;
 		page-break-after: avoid;
 		orphans: 2;
@@ -4998,7 +4987,7 @@ h6 {
 		font-weight: 700;
 		font-size: 10pt;
 		padding-bottom: 2pt;
-		font-family: "Times New Roman";
+		font-family: "Arial";
 		line-height: 1.0;
 		page-break-after: avoid;
 		orphans: 2;
