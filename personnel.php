@@ -59,20 +59,20 @@
   </div>
   <div class="column">
     <div class="personnel1-pic">
-        <img src="doc/personnel1.jpg" style="width:50%;">
+        <img src="doc/personnel4.jpg" style="width:50%;">
     </div>
     </br>
     <div class="personnel2-pic">
-        <img src="doc/personnel2.jpg" style="width:50%;">
+        <img src="doc/personnel3.jpg" style="width:50%;">
     </div>
 
   </br>
   <div class="personnel3-pic">
-      <img src="doc/personnel3.JPG" style="width:50%; transform:rotate(90deg);">
+      <img src="doc/personnel2.jpg" style="width:50%; transform:rotate(90deg);">
   </div>
 </br>
 <div class="personnel4-pic">
-    <img src="doc/personnel4.JPG" style="width:50%;">
+    <img src="doc/personnel1.jpg" style="width:50%;">
 </div>
 
   </div>

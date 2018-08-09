@@ -31,7 +31,7 @@
     <p class="c3"><span class="c8 c6">Medical Daily:</span></p>
     <p class="c3"><span class="c1"><a class="c14" href="https://www.google.com/url?q=https://www.medicaldaily.com/marijuana-can-improve-emotional-well-being-if-used-properly-423689&amp;sa=D&amp;ust=1533848252617000">https://www.medicaldaily.com/marijuana-can-improve-emotional-well-being-if-used-properly-423689</a></span></p>
     <p class="c3 c19"><span class="c17 c2"></span></p>
-    <p class="c3"><span class="c8 c6">Science DailyL</span></p>
+    <p class="c3"><span class="c8 c6">Science Daily</span></p>
     <p class="c3"><span class="c1"><a class="c14" href="https://www.google.com/url?q=https://www.sciencedaily.com/releases/2018/04/180419100110.htm&amp;sa=D&amp;ust=1533848252617000">https://www.sciencedaily.com/releases/2018/04/180419100110.htm</a></span></p>
     <p class="c0 c19"><span class="c1"><a class="c14" href="https://www.google.com/url?q=https://www.sciencedaily.com/releases/2018/04/180419100110.htm&amp;sa=D&amp;ust=1533848252618000"></a></span></p>
 

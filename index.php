@@ -22,14 +22,14 @@ require("header.html");
 <div>
   <div>
 <h2>About</h2>
-  <p>Research in my Health and Cognition Laboratory at WSU focuses on elucidating the potentially
+  <font-size="4">Research in my Health and Cognition Laboratory at WSU focuses on elucidating the potentially
 beneficial and detrimental effects of chronic cannabis use and acute cannabis intoxication. Our
 current and recent work focuses on examining links between cannabis use and mental health
 (e.g., depression, anxiety, OCD), physical health (e.g., pain, sleep), stress, and cognition (e.g.,
 memory, decision-making, executive functioning, creativity, attention). Further, we are
 interested in examining effects of cannabis with different concentrations of THC and CBD as
 well as effects of cannabis concentrates to better understand their influence on mental health,
-physical health, and cognition.</p>
+physical health, and cognition.</font>
 </div>
 </br>
 <h3 class="c31" id="h.u0bhiixj7fry"><span class="c10">Select Publications</span></h3>
