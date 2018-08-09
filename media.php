@@ -19,7 +19,6 @@
     <article class="post">
 
       <h2> Media</h2>
-    </br>
     <p class="c0 c19"><span class="c8 c6"></span></p>
     <p class="c0"><span class="c17 c2">Media Coverage Related to Cuttler et al. (2018) A Naturalistic Examination of the Perceived Effects of Cannabis on Negative Affect.</span></p>
     <p class="c3"><span class="c8 c6">Forbes:</span></p>
