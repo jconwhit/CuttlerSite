@@ -18,50 +18,67 @@
 <div id="main">
     <article class="post">
 <div>
-<h2>Lab Personnel</h2>
 
-<h3>Graduate Students</h3>
-<li>Dakota Mauzay</li>
-<li>Emily LaFrance</li>
-<li>Nick Glodosky</li>
+  <div class="row">
+  <div class="column">
+    <h2>Lab Personnel</h2>
+
+    <h3>Graduate Students</h3>
+    <li>Dakota Mauzay</li>
+    <li>Emily LaFrance</li>
+    <li>Nick Glodosky</li>
+    </br>
+
+    <h3>Graduate Student Alumni</h3>
+    <li>Alexander Spradlin</li>
+    </br>
+
+    <h3>Undergraduate Student Research Assitants</h3>
+    <li>Aria Petrucci</li>
+    <li>Amanda Stueber</li>
+    <li>Nikolas Steckley</li>
+    </br>
+
+    <h3>Undergraduate Student Alumni</h3>
+    <li>Marcella Teixiera-Marques</li>
+    <li>Mackenzie Allison, Jillian Millar</li>
+    <li>Erin Brooks</li>
+    <li>Samantha Dillon</li>
+    <li>Kimberly Reed</li>
+    <li>Madeline Jerome</li>
+    <li>Adam Dickensen</li>
+    <li>Taylor Barnum</li>
+    <li>Gabrielle Struve</li>
+    <li>Mia Ryckman</li>
+    <li>Ashlee Creek</li>
+    <li>Mariah Johnson</li>
+    <li>Samantha Johnson</li>
+    <li>Victoria Money</li>
+    <li>Ryelee Plager</li>
+    <li>Tristan Underwood</li>
+  </div>
+  <div class="column">
+    <div class="personnel1-pic">
+        <img src="doc/personnel1.jpg" style="width:50%;">
+    </div>
+    </br>
+    <div class="personnel2-pic">
+        <img src="doc/personnel2.jpg" style="width:50%;">
+    </div>
+
+  </br>
+  <div class="personnel3-pic">
+      <img src="doc/personnel3.JPG" style="width:50%; transform:rotate(90deg);">
+  </div>
 </br>
-
-<h3>Graduate Student Alumni</h3>
-<li>Alexander Spradlin</li>
-</br>
-
-<h3>Undergraduate Student Research Assitants</h3>
-<li>Aria Petrucci</li>
-<li>Amanda Stueber</li>
-<li>Nikolas Steckley</li>
-</br>
-
-<h3>Undergraduate Student Alumni</h3>
-<li>Marcella Teixiera-Marques</li>
-<li>Mackenzie Allison, Jillian Millar</li>
-<li>Erin Brooks</li>
-<li>Samantha Dillon</li>
-<li>Kimberly Reed</li>
-<li>Madeline Jerome</li>
-<li>Adam Dickensen</li>
-<li>Taylor Barnum</li>
-<li>Gabrielle Struve</li>
-<li>Mia Ryckman</li>
-<li>Ashlee Creek</li>
-<li>Mariah Johnson</li>
-<li>Samantha Johnson</li>
-<li>Victoria Money</li>
-<li>Ryelee Plager</li>
-<li>Tristan Underwood</li>
+<div class="personnel4-pic">
+    <img src="doc/personnel4.JPG" style="width:50%;">
 </div>
 
-<div class="personnel1-pic">
-    <img src="doc/personnel1.jpg" style="width:50%;">
-</div>
-</br>
-<div class="personnel2-pic">
-    <img src="doc/personnel2.jpg" style="width:50%;">
-</div>
+  </div>
+
+
+
     </article>
 </div>
 <?php

@@ -17,6 +17,8 @@
 <!-- Main -->
 <div id="main">
     <article class="post">
+      <h2>Participate in our Research</h2>
+
 Check back later!
     </article>
 </div>
