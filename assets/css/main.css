@@ -3459,6 +3459,11 @@
     clear: both;
 }
 
+ol li {
+    padding-left: 1.28571429em;
+    text-indent: -1.28571429em;
+}
+
 
 
 
