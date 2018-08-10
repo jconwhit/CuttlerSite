@@ -29,11 +29,9 @@
 </div>
 </br>
 <h2> Open Educational Resources</h2>
-<p class="c7"><span class="c9 c21"></span></p>
-<ol class="c12 lst-kix_oa8wlvb1tl91-0 start" start="1">
-    <li class="c24 c33"><span class="c5 c17">Price, P. C., Jhangiani, R. S., Chiang, I. A., Leighton, D. C., &amp; </span><span class="c2 c17">Cuttler, C. </span><span class="c5 c17">(2017). Research methods in psychology: 3</span><span class="c5 c17 c26">rd</span><span class="c5 c17">&nbsp;American edition. Pullman, WA: Open Text WSU. Retrieve at: https:</span><span class="c14 c5 c15"><a class="c10" href="https://www.google.com/url?q=http://opentext.wsu.edu/carriecuttler/&amp;sa=D&amp;ust=1533852749385000">opentext.wsu.edu/carriecuttler/</a></span></li>
-    <li class="c24 c33"><span class="c5 c17">Bridley, A. &amp; Daffin, L. W. Jr. (2018). Abnormal Psychology: 1</span><span class="c5 c17 c26">st</span><span class="c5 c17">&nbsp;edition. </span><span class="c2 c17">C. Cuttler</span><span class="c5 c17">&nbsp;(Ed.). Pullman, WA: Open Text WSU. Retrieve at: </span><span class="c14 c5 c15"><a class="c10" href="https://www.google.com/url?q=https://opentext.wsu.edu/abnormalpsychology/&amp;sa=D&amp;ust=1533852749385000">https://opentext.wsu.edu/abnormalpsychology/</a></span></li>
-</ol>
+<p class="c31"><span class="c3 c18">Price, P. C., Jhangiani, R. S., Chiang, I. A., Leighton, D. C., &amp; </span><span class="c6 c18">Cuttler, C. </span><span class="c3 c18">(2017). Research methods in psychology: 3</span><span class="c20 c18 c25">rd</span><span class="c3 c18">&nbsp;American edition. Pullman, WA: Open Text WSU. Retrieve at: https:</span><span class="c10 c3 c8"><a class="c23" href="https://www.google.com/url?q=http://opentext.wsu.edu/carriecuttler/&amp;sa=D&amp;ust=1533916575826000">opentext.wsu.edu/carriecuttler/</a></span></p>
+<p class="c31"><span class="c3 c18">Bridley, A. &amp; Daffin, L. W. Jr. (2018). Abnormal Psychology: 1</span><span class="c20 c18 c25">st</span><span class="c3 c18">&nbsp;edition. </span><span class="c6 c18">C. Cuttler</span><span class="c3 c18">&nbsp;(Ed.). Pullman, WA: Open Text WSU. Retrieve at: </span><span class="c10 c3 c8"><a class="c23" href="https://www.google.com/url?q=https://opentext.wsu.edu/abnormalpsychology/&amp;sa=D&amp;ust=1533916575826000">https://opentext.wsu.edu/abnormalpsychology/</a></span></p>
+
     </article>
 </div>
 <?php
