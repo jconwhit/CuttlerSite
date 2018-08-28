@@ -19,10 +19,10 @@
             <div id="main">
                 <article class="post">
                     <div>
+                      <h2>Lab Personnel</h2>
 
                         <div class="row">
                             <div class="column">
-                                <h2>Lab Personnel</h2>
 
                                 <h3>Graduate Students</h3>
                                 <li>Dakota Mauzay</li>
@@ -59,6 +59,9 @@
                                 <li>Tristan Underwood</li>
                             </div>
                             <div class="column">
+                              <div class="personnel2-pic">
+                                  <img src="doc/group.jpg" style="width:75%;">
+                              </div>
                                 <div class="personnel1-pic">
                                     <img src="doc/personnel4.jpg" style="width:50%;">
                                 </div>
@@ -71,7 +74,6 @@
                                 <div class="personnel3-pic">
                                     <img src="doc/personnel2.jpg" style="width:50%;">
                                 </div>
-                                </br>
                                 <div class="personnel4-pic">
                                     <img src="doc/personnel1.jpg" style="width:50%;">
                                 </div>
