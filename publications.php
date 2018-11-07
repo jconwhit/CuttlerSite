@@ -21,8 +21,7 @@
             <div id="main">
                 <article class="post">
                     <h2>Publications</h2>
-                    Under construction.
-                    <!-- <p class="c31"><span class="c2 c5">Published Peer Reviewed Articles (h-index = 15)</span></p>
+                    <p class="c31"><span class="c2 c5">Published Peer Reviewed Articles (h-index = 15)</span></p>
                     <ol class="c11 lst-kix_954g3qn5t9tc-0 start" start="1">
                         <li class="c7"><span class="c6">Cuttler, C. </span><span class="c3">(in press). Students’ use and perceptions of the relevance and quality of open textbooks compared to traditional textbooks in online and traditional classroom environments.</span><span class="c0 c2"> Psychology Learning & Teaching.</span></li>
                         <li class="c7"><span class="c3">Sexton, M., </span><span class="c6">Cuttler, C., </span><span class="c3">& Mischley, L. (in press). A survey of acute effects of cannabis and withdrawal symptoms: Differential responses across user types and age.</span><span class="c0 c2"> Journal of Alternative and Complementary Medicine.</span></li>
@@ -87,7 +86,7 @@
                     </ol>
 
                     * mentored student </br>
-                    &Dagger; co-first author -->
+                    &Dagger; co-first author
                 </article>
             </div>
             <?php

@@ -19,7 +19,8 @@
             <div id="main">
                 <article class="post">
                     <h2>Participate in our Research</h2>
-                    We are currently recruiting healthy cannabis users to participate in a study on the acute effects of cannabis on everyday life cognition. For more information and/or to see if you are eligible please go to <a href="http://www.acutecannabisstudy.com">www.acutecannabisstudy.com</a> to complete our screening questionnaire. Eligible participants will be asked to provide contact information and will be contacted by the researchers to schedule an appointment.
+                    Under construction.
+                    <!-- We are currently recruiting healthy cannabis users to participate in a study on the acute effects of cannabis on everyday life cognition. For more information and/or to see if you are eligible please go to <a href="http://www.acutecannabisstudy.com">www.acutecannabisstudy.com</a> to complete our screening questionnaire. Eligible participants will be asked to provide contact information and will be contacted by the researchers to schedule an appointment. -->
                 </article>
             </div>
             <?php
