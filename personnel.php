@@ -35,12 +35,13 @@
                                 </br>
 
                                 <h3>Undergraduate Student Research Assitants</h3>
-                                <li>Aria Petrucci</li>
                                 <li>Amanda Stueber</li>
-                                <li>Nikolas Steckley</li>
+                                <li>Emma Smith</li>
+                                <li>Nikolas Steckley (Web Desinger)</li>
                                 </br>
 
                                 <h3>Undergraduate Student Alumni</h3>
+                                <li>Aria Petrucci</li>
                                 <li>Marcella Teixiera-Marques</li>
                                 <li>Mackenzie Allison, Jillian Millar</li>
                                 <li>Erin Brooks</li>
