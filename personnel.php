@@ -37,7 +37,7 @@
                                 <h3>Undergraduate Student Research Assitants</h3>
                                 <li>Amanda Stueber</li>
                                 <li>Emma Smith</li>
-                                <li>Nikolas Steckley (Web Desinger)</li>
+                                <li>Nikolas Steckley (Web Designer)</li>
                                 </br>
 
                                 <h3>Undergraduate Student Alumni</h3>
