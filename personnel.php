@@ -28,6 +28,7 @@
                                 <li>Dakota Mauzay</li>
                                 <li>Emily LaFrance</li>
                                 <li>Nick Glodosky</li>
+                                <li>Amanda Stueber</li>
                                 </br>
 
                                 <h3>Graduate Student Alumni</h3>
@@ -35,7 +36,6 @@
                                 </br>
 
                                 <h3>Undergraduate Student Research Assitants</h3>
-                                <li>Amanda Stueber</li>
                                 <li>Emma Smith</li>
                                 <li>Nikolas Steckley (Web Designer)</li>
                                 </br>
