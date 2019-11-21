@@ -37,6 +37,7 @@
 
                                 <h3>Undergraduate Student Research Assitants</h3>
                                 <li>Emma Smith</li>
+                                <li>Gavin Jarschke</li>
                                 <li>Nikolas Steckley (Web Designer)</li>
                                 </br>
 
@@ -60,6 +61,9 @@
                                 <li>Tristan Underwood</li>
                             </div>
                             <div class="column">
+                              <div class="personnel5-pic">
+                                  <img src="doc/personnel5.png" style="width:50%;">
+                              </div>
                               <div class="personnel2-pic">
                                   <img src="doc/group.jpg" style="width:75%;">
                               </div>
