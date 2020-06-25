@@ -26,13 +26,14 @@
 
                                 <h3>Graduate Students</h3>
                                 <li>Dakota Mauzay</li>
-                                <li>Emily LaFrance</li>
                                 <li>Nick Glodosky</li>
                                 <li>Amanda Stueber</li>
+                                <li>Kyle Schofield</li>
                                 </br>
 
                                 <h3>Graduate Student Alumni</h3>
                                 <li>Alexander Spradlin</li>
+                                <li>Emily LaFrance</li>
                                 </br>
 
                                 <h3>Undergraduate Student Research Assitants</h3>
