@@ -21,7 +21,7 @@
             <div id="main">
                 <article class="post">
                     <h2>Publications</h2>
-                    <p class="c31"><span class="c2 c5">Published Peer Reviewed Articles (h-index = 16)</span></p>
+                    <p class="c31"><span class="c2 c5">Published Peer Reviewed Articles (h-index = 20)</span></p>
                     <ol class="c11 lst-kix_954g3qn5t9tc-0 start" start="1">
                       <li class="c7"><span class="c6">Cuttler, C.</span><span class="c3">, LaFrance, E. M., &amp; Craft, R. M. (in press). A large-scale naturalistic examination of the acute effects of cannabis on pain. </span><span class="c0 c2">Cannabis and Cannabinoid Research.</span><span class="c3"> doi:10.1089/can.2020.0068. </span></li>
                       <li class="c7"><span class="c3">Carter, G. T., McLaughlin, R. J., </span><span class="c6">Cuttler, C., </span><span class="c3">Sauber, G. J., Weeks, D., Hillard, C. J., &amp; Weiss, M. D. (2021). Endocannabinoids and related lipids serum from patients with amyotrophic lateral sclerosis. </span><span class="c0">Muscle & Nerve, 63(1), </span><span class="c3">120-126. doi: 10.1002/mus.27096.</span></li>
