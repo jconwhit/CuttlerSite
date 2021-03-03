@@ -25,24 +25,25 @@
                             <div class="column">
 
                                 <h3>Graduate Students</h3>
-                                <li>Dakota Mauzay</li>
                                 <li>Nick Glodosky</li>
                                 <li>Amanda Stueber</li>
                                 <li>Kyle Schofield</li>
+                                <li>Aria Petrucci</li>
                                 </br>
 
                                 <h3>Graduate Student Alumni</h3>
+                                <li>Dakota Mauzay</li>
                                 <li>Alexander Spradlin</li>
                                 <li>Emily LaFrance</li>
                                 </br>
 
                                 <h3>Undergraduate Student Research Assitants</h3>
-                                <li>Emma Smith</li>
-                                <li>Gavin Jarschke</li>
                                 <li>Nikolas Steckley (Web Designer)</li>
                                 </br>
 
                                 <h3>Undergraduate Student Alumni</h3>
+                                <li>Gavin Jarschke</li>
+                                <li>Emma Smith</li>
                                 <li>Aria Petrucci</li>
                                 <li>Marcella Teixiera-Marques</li>
                                 <li>Mackenzie Allison, Jillian Millar</li>
@@ -73,7 +74,8 @@
                                 </div>
                                 </br>
                                 <div class="personnel2-pic">
-                                    <img src="doc/personnel3.jpg" style="width:50%; transform:rotate(90deg);">
+                                    <img src="doc/personnel3.jpg" style="width:50%;">  
+                                    <!-- transform:rotate(90deg); -->
                                 </div>
 
                                 </br>

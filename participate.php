@@ -22,12 +22,6 @@
                     <div class="main-pic">
                         <img src="doc/adhdStudyAd.png" style="width:60%;">
                     </div>
-                    <br>
-                    <div class="main-pic">
-                        <img src="doc/acuteStudyAd.png" style="width:60%;">
-                    </div>
-
-                    <!-- We are currently recruiting healthy cannabis users to participate in a study on the acute effects of cannabis on everyday life cognition. For more information and/or to see if you are eligible please go to <a href="http://www.acutecannabisstudy.com">www.acutecannabisstudy.com</a> to complete our screening questionnaire. Eligible participants will be asked to provide contact information and will be contacted by the researchers to schedule an appointment. -->
                 </article>
             </div>
             <?php

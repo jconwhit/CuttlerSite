@@ -21,6 +21,42 @@
 
                     <h2>Media</h2>
 
+                    <p class="c4"><span class="c6 c2 c8">Media Coverage Related to Warnick et al. (2021) Benefits and Detriments of Cannabis User’s Creativity in New Venture Ideation</span></p>
+                    <p class="c21 c12"><span class="c1"></span></p>
+                    <p class="c21"><span class="c1">US News and World Report:</span></p>
+                    <p class="c21"><span class="c10 c3 c8"><a class="c23" href="https://www.usnews.com/news/health-news/articles/2021-02-04/does-getting-high-give-you-great-business-ideas-yes-and-no-new-study-finds">https://www.usnews.com/news/health-news/articles/2021-02-04/does-getting-high-give-you-great-business-ideas-yes-and-no-new-study-finds<br></a></span></p>
+                    <p class="c21 c12"><span class="c6 c2 c8"></span></p>
+
+                    <p class="c4"><span class="c6 c2 c8">Media Coverage Related to LaFrance et al. (2020) Acute Effects of Cannabis on Post-Traumatic Stress Disorder</span></p>
+                    <p class="c21 c12"><span class="c1"></span></p>
+                    <p class="c21"><span class="c1">MSN:</span></p>
+                    <p class="c21"><span class="c10 c3 c8"><a class="c23" href="https://www.msn.com/en-ca/health/medical/marijuana-and-mental-health-examining-a-complicated-relationship/ar-BB1dLomW">https://www.msn.com/en-ca/health/medical/marijuana-and-mental-health-examining-a-complicated-relationship/ar-BB1dLomW<br></a></span></p>
+                    <p class="c21 c12"><span class="c6 c2 c8"></span></p>
+
+                    <p class="c4"><span class="c6 c2 c8">Media Coverage Related to Mauzay et al. (2021) Acute Effects of Cannabis on Obsessive-Compulsive Disorder</span></p>
+                    <p class="c21 c12"><span class="c1"></span></p>
+                    <p class="c21"><span class="c1">Forbes:</span></p>
+                    <p class="c21"><span class="c10 c3 c8"><a class="c23" href="https://www.forbes.com/sites/emilyearlenbaugh/2020/10/30/inhaled-cannabis-reduced-ocd-symptoms-in-recent-study/?sh=26ee63831ba0">https://www.forbes.com/sites/emilyearlenbaugh/2020/10/30/inhaled-cannabis-reduced-ocd-symptoms-in-recent-study/?sh=26ee63831ba0<br></a></span></p>
+                    <p class="c21 c12"><span class="c6 c2 c8"></span></p>
+                    <p class="c21"><span class="c1">High Times:</span></p>
+                    <p class="c21"><span class="c10 c3 c8"><a class="c23" href="https://hightimes.com/news/study-suggests-cannabis-may-alleviate-symptoms-obsessive-compulsive-disorder/">https://hightimes.com/news/study-suggests-cannabis-may-alleviate-symptoms-obsessive-compulsive-disorder/<br></a></span></p>
+                    <p class="c21 c12"><span class="c6 c2 c8"></span></p>
+
+                    <p class="c4"><span class="c6 c2 c8">Media Coverage Related to Cuttler et al. (2020) Short- and Long-term Effects of Cannabis on Headache and Migraine (2020)</span></p>
+                    <p class="c21 c12"><span class="c1"></span></p>
+                    <p class="c21"><span class="c1">ABC Action News:</span></p>
+                    <p class="c21"><span class="c10 c3 c8"><a class="c23" href="https://www.abcactionnews.com/news/national/study-finds-cannabis-could-relieve-headaches">https://www.abcactionnews.com/news/national/study-finds-cannabis-could-relieve-headaches<br></a></span></p>
+                    <p class="c21 c12"><span class="c6 c2 c8"></span></p>
+                    <p class="c21"><span class="c1">WebMD:</span></p>
+                    <p class="c21"><span class="c10 c3 c8"><a class="c23" href="https://www.webmd.com/migraines-headaches/news/20191203/marijuana-could-offer-relief-from-migraine-pain">https://www.webmd.com/migraines-headaches/news/20191203/marijuana-could-offer-relief-from-migraine-pain<br></a></span></p>
+                    <p class="c21 c12"><span class="c6 c2 c8"></span></p>
+                    <p class="c21"><span class="c1">Healthline:</span></p>
+                    <p class="c21"><span class="c10 c3 c8"><a class="c23" href="https://www.healthline.com/health-news/study-shows-cannabis-reduces-headache-migraine-pain">https://www.healthline.com/health-news/study-shows-cannabis-reduces-headache-migraine-pain<br></a></span></p>
+                    <p class="c21 c12"><span class="c6 c2 c8"></span></p>
+                    <p class="c21"><span class="c1">Chicago Tribune:</span></p>
+                    <p class="c21"><span class="c10 c3 c8"><a class="c23" href="https://www.chicagotribune.com/lifestyles/health/sc-hlth-marijuana-migraine-pain-1211-20191209-glkt6xutcbazffsonqmclagfuy-story.html">https://www.chicagotribune.com/lifestyles/health/sc-hlth-marijuana-migraine-pain-1211-20191209-glkt6xutcbazffsonqmclagfuy-story.html<br></a></span></p>
+                    <p class="c21 c12"><span class="c6 c2 c8"></span></p>
+
                     <p class="c4"><span class="c6 c2 c8">Media Coverage Related to Cuttler et al. (2018) A Naturalistic Examination of the Perceived Effects of Cannabis on Negative Affect.</span></p>
                     <p class="c21 c12"><span class="c1"></span></p>
                     <p class="c21"><span class="c1">Forbes:</span></p>
