@@ -38,6 +38,7 @@
                                 </br>
 
                                 <h3>Undergraduate Student Research Assitants</h3>
+                                <li>Alexander Jensen</li>
                                 <li>Nikolas Steckley (Web Designer)</li>
                                 </br>
 
@@ -74,7 +75,7 @@
                                 </div>
                                 </br>
                                 <div class="personnel2-pic">
-                                    <img src="doc/personnel3.jpg" style="width:50%;">  
+                                    <img src="doc/personnel3.jpg" style="width:50%;">
                                     <!-- transform:rotate(90deg); -->
                                 </div>
 
