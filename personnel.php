@@ -37,7 +37,7 @@
                                 <li>Emily LaFrance</li>
                                 </br>
 
-                                <h3>Undergraduate Student Research Assitants</h3>
+                                <h3>Undergraduate Student Research Assistants</h3>
                                 <li>Alexander Jensen</li>
                                 <li>Nikolas Steckley (Web Designer)</li>
                                 </br>
