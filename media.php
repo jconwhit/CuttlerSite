@@ -21,7 +21,13 @@
 
                     <h2>Media</h2>
 
-                    <p class="c4"><span class="c6 c2 c8">Media Coverage Related to Warnick et al. (2021) Benefits and Detriments of Cannabis User’s Creativity in New Venture Ideation</span></p>
+                    <p class="c4"><span class="c6 c2 c8">Media Coverage Related to Cuttler et al. (2021) Acute Effects of High-Potency Cannabis Flower and Concentrates on Everyday Life Cognition (2021).</span></p>
+                    <p class="c21 c12"><span class="c1"></span></p>
+                    <p class="c21"><span class="c1">KOMO NEWS</span></p>
+                    <p class="c21"><span class="c10 c3 c8"><a class="c23" href="https://komonews.com/news/local/wsu-study-finds-that-high-potency-cannabis-could-impact-users-memory">https://komonews.com/news/local/wsu-study-finds-that-high-potency-cannabis-could-impact-users-memory<br></a></span></p>
+                    <p class="c21 c12"><span class="c6 c2 c8"></span></p>
+
+                    <p class="c4"><span class="c6 c2 c8">Media Coverage Related to Warnick et al. (2021) Benefits and Detriments of Cannabis User's Creativity in New Venture Ideation</span></p>
                     <p class="c21 c12"><span class="c1"></span></p>
                     <p class="c21"><span class="c1">US News and World Report:</span></p>
                     <p class="c21"><span class="c10 c3 c8"><a class="c23" href="https://www.usnews.com/news/health-news/articles/2021-02-04/does-getting-high-give-you-great-business-ideas-yes-and-no-new-study-finds">https://www.usnews.com/news/health-news/articles/2021-02-04/does-getting-high-give-you-great-business-ideas-yes-and-no-new-study-finds<br></a></span></p>

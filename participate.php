@@ -19,6 +19,10 @@
             <div id="main">
                 <article class="post">
                     <h2>Participate in our Research</h2>
+                    <address>
+                        <p class="c21"><span class="c6">Individuals interested in participating in our ongoing studies should email us at </span><span class="c10 c3 c8"><a class="c23" href="mailto:psych.thclab@wsu.edu">psych.thclab@wsu.edu</a></span></p>
+                        <p class="c21 c12"><span class="c6 c2 c8"></span></p>
+                    </address>
                     <div class="main-pic">
                         <img src="doc/adhdStudyAd.png" style="width:60%;">
                     </div>
