@@ -4884,6 +4884,15 @@ table th {
 		text-align: left
 }
 
+.c39 {
+	padding-top: 0pt;
+	padding-bottom: 0pt;
+	line-height: 1.4;
+	orphans: 2;
+	widows: 2;
+	text-align: left
+}
+
 .c16 {
 		padding-top: 0pt;
 		padding-bottom: 17pt;
@@ -5026,6 +5035,13 @@ table th {
 
 .c28 {
 		background-color: #ffffff
+}
+
+.c38 {
+		font-size: 11pt;
+		font-family: "Arial";
+		font-weight: 700;
+		font-style: italic
 }
 
 .c25 {
