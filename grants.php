@@ -136,7 +136,7 @@
 
                     <p class="c39"><span class="c38">The Influence of Chronic Cannabis Use on Stress Induced Cognitive Inflexibility</span></p>
                     <p class="c39"><span class="c3">Funding period: 01/2016 – 06/2017</span></p>
-                    <p class="c39"><span class="c3">Total: $12.635</span></p>
+                    <p class="c39"><span class="c3">Total: $12,635</span></p>
                     <p class="c39"><span class="c3">Type: Dedicated Marijuana Account Faculty Pilot Grant (2938-0425)</span></p>
                     <p class="c39"><span class="c3">Role: Co-I</span></p>
                     <p class="c39"><span class="c3">Goals: This project focused on examining the effects of chronic cannabis use on the stress response and cognition.</span></p>
