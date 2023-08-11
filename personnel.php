@@ -28,7 +28,6 @@
                                 <li>Nick Glodosky</li>
                                 <li>Amanda Stueber</li>
                                 <li>Kyle Schofield</li>
-                                <li>Aria Petrucci</li>
                                 </br>
 
                                 <h3>Graduate Student Alumni</h3>
@@ -45,7 +44,6 @@
                                 <h3>Undergraduate Student Alumni</h3>
                                 <li>Gavin Jarschke</li>
                                 <li>Emma Smith</li>
-                                <li>Aria Petrucci</li>
                                 <li>Marcella Teixiera-Marques</li>
                                 <li>Mackenzie Allison, Jillian Millar</li>
                                 <li>Erin Brooks</li>
